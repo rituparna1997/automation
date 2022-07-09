@@ -1,8 +1,0 @@
----
- deploymentName: "mycontainer"
- numberOfReplicas: "2"
- appLevel: "mycontainer"
- containerName: "mycontainerimage"
- image: "rituparna1997/mycontainer"
- serviceName: "mycontainer-sevice"
- nodePort: "30023"
